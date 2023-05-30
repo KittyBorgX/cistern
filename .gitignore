@@ -1,3 +1,6 @@
+# All the downloaded CI build logs:
+.cistern*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
